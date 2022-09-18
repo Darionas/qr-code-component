@@ -12,8 +12,8 @@ QR code component challenge on Frontend Mentor.
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: (https://github.com/Darionas/qr-code-component)
+- Live Site URL: (https://darionas.github.io/qr-code-component/)
 
 ## My process
 
