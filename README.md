@@ -12,14 +12,14 @@ QR code component challenge on Frontend Mentor.
 
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: (https://github.com/Darionas/qr-code-component)
+- Live Site URL: (https://darionas.github.io/qr-code-component/)
 
 ## My process
 
 * Set HTML layout.
 * Create CSS external file to set style for HTML layout:
-  * Choose to use responsive web design for image by using max-width property for image, and including meta viewport element in my web page. It works on Mobile (375px) and Desktop (1440px) as well.
+  * Choose to use responsive web image by using max-width property for image, and including meta viewport element in my web page. It works on Mobile (375px) and Desktop (1440px) as well.
   * Use css techniques to center vertically or horizontally:
     ```css
     /*center horizontally*/
@@ -56,17 +56,17 @@ I had a short overwiev of [The Markdown Guide](https://www.markdownguide.org/bas
 ### Continued development
 
 - Next learning subject is going to be The Markdown Guide. 
-- I am not confortable with choosing which layout system to use when you start new webpage. There are several of them with some advantages and disadvantages. I think It comes with practice, experience.
+- I am not confortable with choosing which layout system to use when I start new webpage. There are several of them with some advantages and disadvantages. I think It comes with practice, experience.
 - I still dig deeper in JavaScript.
 
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com/howto/howto_css_image_center.asp) - This helped me for centering horizontally image.
-- [Example resource 2](https://www.w3schools.com/howto/howto_css_center-vertical.asp) - This is an amazing article which helped me centering vertically and horizontally element by using flexbox.
-- [Example resource 3](https://www.w3schools.com/css/css3_box-sizing.asp) - This is a nice article which allows us to include the padding and border in an element's total width and height.
-- [Example resource 4](https://www.w3schools.com/css/css_howto.asp) - This lets us to create CSS external file, and make HTML code more readable.
-- [Example resource 5](https://www.w3schools.com/css/css_rwd_images.asp) - This explains how to create responsive web design (images), by using max-width property, and including meta viewport element in your web pages.
+- [Center image horizontally](https://www.w3schools.com/howto/howto_css_image_center.asp) - This helped me for centering horizontally image.
+- [Center element horizontally and vertically](https://www.w3schools.com/howto/howto_css_center-vertical.asp) - This is an amazing article which helped me centering vertically and horizontally element by using flexbox.
+- [Using box-sizing property](https://www.w3schools.com/css/css3_box-sizing.asp) - This is a nice article which allows us to include the padding and border in an element's total width and height.
+- [Method to insert external stylesheet](https://www.w3schools.com/css/css_howto.asp) - This lets us to create CSS external file, and make HTML code more readable.
+- [Responsive image](https://www.w3schools.com/css/css_rwd_images.asp) - This explains how to create responsive web design (images), by using max-width property, and including meta viewport element in your web pages.
 
 ## Author
 
