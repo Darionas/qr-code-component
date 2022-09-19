@@ -25,8 +25,7 @@ QR code component challenge on Frontend Mentor.
     /*center horizontally*/
     .im {
       display: block;
-      margin-left: auto;
-      margin-right: auto;
+      margin-inline: auto; 
     }
 
     /*center horizontally and vertically*/
@@ -37,16 +36,17 @@ QR code component challenge on Frontend Mentor.
     }
     ```
   * Set colors, font size and family according `style-guide.md`
+  * Use rem css unit for all HTML elements to achieve responsive design.
 
 
 ### Built with
 
 It is based on:
 - Semantic HTML5 markup:
-- CSS custom properties:
-  - External css stylesheets
+- External css stylesheet (responsive web design):
   - Viewport element
   - Flexbox
+  - css unit (rem)
  
 ### What I learned
 
@@ -75,5 +75,8 @@ I had a short overwiev of [The Markdown Guide](https://www.markdownguide.org/bas
 ## Acknowledgments
 
 Thank you Frontend Mentor team for opportunity to try, practice, train yourself in different level challenges and gain invaluable experience.
+Thank you:
+- Lucas (@correlucas) from Frontend Mentor for fast and good feedback.
+- @tok124 and @Phil from Discord w3schools server for some notes.
 
 
