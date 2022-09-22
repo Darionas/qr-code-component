@@ -50,7 +50,7 @@ It is based on:
  
 ### What I learned
 
-In that challenge I found out that The Markdown Guide is a new subject for me. I am new in that subject.
+In this challenge I found out that The Markdown Guide is a new subject for me. I am new in that subject.
 I had a short overwiev of [The Markdown Guide](https://www.markdownguide.org/basic-syntax/).
 
 ### Continued development
